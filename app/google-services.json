@@ -1,0 +1,251 @@
+{
+  "project_info": {
+    "project_number": "346129473017",
+    "firebase_url": "https://kodobok-1491990010639.firebaseio.com",
+    "project_id": "kodobok-1491990010639",
+    "storage_bucket": "kodobok-1491990010639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346129473017:android:27d689d63f1b7a06",
+        "android_client_info": {
+          "package_name": "com.Sleepewoo.kodobok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346129473017-ao0t3mjqnevtg9gkrjqsj1fc4eb55sn8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "346129473017-iptkvjik3i49vk221vevocpsnq05g8a9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Sleepewoo.kodobok",
+            "certificate_hash": "06de9695a913f353b2b89a162edb5b0fb7077400"
+          }
+        },
+        {
+          "client_id": "346129473017-o41j7jd57hb0k4na6eik6ht5jchmnenj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXYPQ5XpWVOovtFJFULXFiHnpPqOaFRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346129473017-ao0t3mjqnevtg9gkrjqsj1fc4eb55sn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346129473017:android:6556d42f639ae760",
+        "android_client_info": {
+          "package_name": "com.Sleepewoo.kodobok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346129473017-ao0t3mjqnevtg9gkrjqsj1fc4eb55sn8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "346129473017-lpp6dh7bs2k2h6hd59q7h6skv5ckg76g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Sleepewoo.kodobok",
+            "certificate_hash": "06de9695a913f353b2b89a162edb5b0fb7077400"
+          }
+        },
+        {
+          "client_id": "346129473017-o41j7jd57hb0k4na6eik6ht5jchmnenj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXYPQ5XpWVOovtFJFULXFiHnpPqOaFRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346129473017-ao0t3mjqnevtg9gkrjqsj1fc4eb55sn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346129473017:android:e74b17866c468f30",
+        "android_client_info": {
+          "package_name": "com.Sleepewoo.kodobok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346129473017-ao0t3mjqnevtg9gkrjqsj1fc4eb55sn8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "346129473017-47kkif8k0ecv4sqiebte8fkrl49jcagq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Sleepewoo.kodobok",
+            "certificate_hash": "06de9695a913f353b2b89a162edb5b0fb7077400"
+          }
+        },
+        {
+          "client_id": "346129473017-o41j7jd57hb0k4na6eik6ht5jchmnenj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXYPQ5XpWVOovtFJFULXFiHnpPqOaFRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346129473017-ao0t3mjqnevtg9gkrjqsj1fc4eb55sn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346129473017:android:72f3d167a2757923",
+        "android_client_info": {
+          "package_name": "com.Sleepewoo.kodobok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346129473017-lpfa1066gtvr476lp4kcblnvc0asl1m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Sleepewoo.kodobok",
+            "certificate_hash": "06de9695a913f353b2b89a162edb5b0fb7077400"
+          }
+        },
+        {
+          "client_id": "346129473017-ao0t3mjqnevtg9gkrjqsj1fc4eb55sn8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "346129473017-o41j7jd57hb0k4na6eik6ht5jchmnenj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXYPQ5XpWVOovtFJFULXFiHnpPqOaFRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346129473017-ao0t3mjqnevtg9gkrjqsj1fc4eb55sn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346129473017:android:ad98e103cf63fc2e",
+        "android_client_info": {
+          "package_name": "com.sleepewoo.kodobk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346129473017-agaim7a3u21asq3dv5dl9idk77o4fb6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sleepewoo.kodobk",
+            "certificate_hash": "06de9695a913f353b2b89a162edb5b0fb7077400"
+          }
+        },
+        {
+          "client_id": "346129473017-ao0t3mjqnevtg9gkrjqsj1fc4eb55sn8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "346129473017-o41j7jd57hb0k4na6eik6ht5jchmnenj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXYPQ5XpWVOovtFJFULXFiHnpPqOaFRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346129473017-ao0t3mjqnevtg9gkrjqsj1fc4eb55sn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
